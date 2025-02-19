@@ -42,7 +42,7 @@ retriever=vectordb.as_retriever(search_type="similarity",search_kwargs={"k":3})
 from transformers import pipeline
 
 from huggingface_hub import login
-login(token="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")
+login(token="YOUR_HF_TOKEN")
 
 llama_pipeline = pipeline(
     "text-generation",
