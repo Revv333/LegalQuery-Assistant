@@ -10,6 +10,6 @@ Legal Consultation
 LegalAssistant  can provide initial legal consultation by providing answers to legal queries based on Indian law, thereby enhancing access to legal services.
 
 Legal Document Review
-LegalAssistant  can review and understand legal documents, helping to identify key issues, analyze contracts, and even draft preliminary legal documents.
+LegalAssistant  can review and understand legal documents, helping to identify key issues, analyze contracts, and even draft preliminary some legal documents.
 
 ![image](https://github.com/user-attachments/assets/d832ce0f-24b5-4aca-93ff-e9c8745f5679)
