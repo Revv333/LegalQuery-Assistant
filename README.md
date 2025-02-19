@@ -12,5 +12,4 @@ LegalAssistant  can provide initial legal consultation by providing answers to l
 Legal Document Review
 LegalAssistant  can review and understand legal documents, helping to identify key issues, analyze contracts, and even draft preliminary legal documents.
 
-This project is ongoing, and the legal domain datasets and series of models will be open-sourced in succession. Please stay tuned.
 ![image](https://github.com/user-attachments/assets/d832ce0f-24b5-4aca-93ff-e9c8745f5679)
