@@ -1,0 +1,7 @@
+•	Libraries:
+•	Langchain: For document processing, managing conversation memory, and vector embeddings.
+•	Transformers: For implementing language models for text generation and summarization tasks.
+•	Chromadb: For managing and querying the vector database efficiently.
+•	torch: As a backend for executing deep learning models.
+•	huggingface_hub: For model management and access to pre-trained models.
+•	sentence-transformers: For generating embeddings from text, facilitating semantic search.
